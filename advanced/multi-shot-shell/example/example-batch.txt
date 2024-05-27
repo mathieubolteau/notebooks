@@ -1,3 +1,0 @@
-load example/example.lp
-solve
-exit
